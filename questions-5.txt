@@ -1,0 +1,5 @@
+What is the difference between a hypothesis and a theory?
+What are some examples of scientific theories that have been supported by evidence?
+Can you explain the concept of machine learning and its applications in real-world scenarios?
+How does natural language processing enable computers to understand and generate human language?
+What are the current advancements and limitations in the field of neural networks, particularly in deep neural networks?

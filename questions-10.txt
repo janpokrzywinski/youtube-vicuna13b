@@ -1,0 +1,10 @@
+What is the difference between a hypothesis and a theory?
+What is the current understanding of the origin of the universe, and how did it evolve over time?
+What are some examples of scientific theories that have been supported by evidence?
+Can you describe how the internet works?
+Can you explain the concept of machine learning and its applications in real-world scenarios?
+What is quantum computing and how does it differ from classical computing?
+How does natural language processing enable computers to understand and generate human language?
+What is the difference between supervised and unsupervised learning in AI?
+What are the current advancements and limitations in the field of neural networks, particularly in deep neural networks?
+How can AI be used to solve real-world problems?
